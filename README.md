@@ -1,3 +1,4 @@
 - 👋 Hi, I’m Eric Kemmeren,
-- I'm interested in Embedded Software and creating my homemade smart home using [Openhab](https://www.openhab.org/) and a lot of the projects on my profile.
-- I’m currently studying Computer Science and Engineering at TU Delft.
+- Welcome to my Github page where I have many project, from self made [smart curtains](https://github.com/GoodGuyMe/rolgordijnen) to snake playing on a [LED table](https://github.com/GoodGuyMe/esp32-table).
+- All these project connect to a MQTT server, running on a raspberry pi together with [Openhab](https://www.openhab.org/) to control all the systems.
+- I’m currently studying Computer Science at the TU Delft.
